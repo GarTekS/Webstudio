@@ -1,2 +1,2 @@
 # Webstudio
-https://gatteks.github.io/Webstudio/
+https://garteks.github.io/Webstudio/
